@@ -1,4 +1,4 @@
-# netIDRG: Network Information Dynamics Renormalization Group
+# Neural Network Pruning by Gradient Descent
 
 This repository will contain the PyTorch implementation of:
 <br>
@@ -25,9 +25,9 @@ The rapid increase in the parameters of deep learning models has led to signific
 
 ### To Understand how our model works, please see this tutorial:
 
-[Tutorial](https://github.com/3riccc/neural_pruning/a_simple_tutorial.ipynb)
-From this turorial, you will see how to prun the network to show the relationship between features and labels directly.\\
-Like the left subfigure shows below:
+[Tutorial Here](https://github.com/3riccc/neural_pruning/a_simple_tutorial.ipynb)
+<p>From this turorial, you will see how to prun the network to show the relationship between features and labels directly.</p>
+<p>Like the left subfigure shows below:</p>
 <p align="center">
   <img src="./information_pathway.png" width="200px" alt="">
 </p>
