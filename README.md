@@ -4,7 +4,7 @@ This repository will contain the PyTorch implementation of:
 <br>
 
 **Neural Network Pruning by Gradient Descent**<br>
-Zhang Zhang<sup>\*</sup>, Ruyi Tao, Jiang Zhangyejiu<sup>\*</sup><br>
+Zhang Zhang, Ruyi Tao, Jiang Zhangyejiu<sup>\*</sup><br>
 
 (<sup>\*</sup>: Corresponding author) <br>
 [Download PDF](https://arxiv.org/pdf/2311.12526.pdf)<br>
